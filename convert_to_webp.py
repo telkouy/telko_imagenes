@@ -37,7 +37,7 @@ def convert_to_webp(input_path, output_path, quality=80, delete_original=False):
     except Exception as e:
         print(f"Error procesando {input_path}: {str(e)}")
 
-def process_directory(directory, quality=80, delete_original=False):
+def process_directory(directory, quality=90, delete_original=False):
     """
     Procesa todos los archivos de imagen en un directorio y sus subdirectorios.
     
