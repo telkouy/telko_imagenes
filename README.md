@@ -1,1 +1,0 @@
-# telko_imagenes
